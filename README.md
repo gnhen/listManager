@@ -4,7 +4,7 @@ A clean, intuitive web-based list management application with drag-and-drop func
 
 ## Live Demo
 
-Access the app directly through the GitHub Pages URL for this repository.
+Access the app directly through the URL for this repository.
 
 ## Features
 
@@ -86,7 +86,3 @@ Works best in modern browsers with support for:
 - ES6+ JavaScript
 - HTML5 Drag and Drop API
 - LocalStorage API
-
-## License
-
-Open source - feel free to use and modify as needed.
