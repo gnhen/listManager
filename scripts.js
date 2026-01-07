@@ -1,20 +1,13 @@
 const defaultData = [
     {
         id: 1,
-        title: "Movies to Watch",
+        title: "List1",
         expanded: true,
         items: [
-            { id: 101, text: "F1", completed: false, link: "https://www.imdb.com" },
-            { id: 102, text: "Wall-E", completed: true, link: "https://www.imdb.com" },
-            { id: 103, text: "Interstellar", completed: false, link: "" },
-            { id: 104, text: "Baby Driver", completed: false, link: "" }
+            { id: 101, text: "Item1", completed: false, link: "" },
+            { id: 102, text: "Item2", completed: true, link: "" },
+            { id: 103, text: "Item3", completed: false, link: "" }
         ]
-    },
-    {
-        id: 2,
-        title: "Wii Parts",
-        expanded: false,
-        items: []
     }
 ];
 
